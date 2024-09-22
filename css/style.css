@@ -161,7 +161,8 @@ a:focus {
 }
 
 .slider_img-box img {
-  width: 100%;
+  width: auto;
+  max-height: 30rem;
 }
 
 .slider_item-container {
