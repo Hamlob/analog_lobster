@@ -582,3 +582,20 @@ a:focus {
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
+
+
+/* item detail*/
+.item-spec{
+  padding-bottom: 50px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 2px solid var(--header_clr);
+  text-align: center;
+  padding: 2px;
+}
