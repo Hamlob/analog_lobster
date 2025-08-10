@@ -600,6 +600,10 @@ td, th {
   padding: 2px;
 }
 
+.order-button{
+  text-align: center;
+}
+
 video {
   max-width: 100%;
 }
