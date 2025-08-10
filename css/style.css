@@ -586,12 +586,13 @@ a:focus {
 
 /* item detail*/
 .item-spec{
-  padding-bottom: 50px;
+  padding-bottom: 2rem;
 }
 
 table {
   border-collapse: collapse;
   width: 100%;
+  margin-top: -1rem;
 }
 
 td, th {
@@ -603,6 +604,7 @@ td, th {
 .order-button{
   text-align: center;
   margin: auto;
+  padding-bottom: 2rem;
 }
 
 video {
