@@ -602,6 +602,7 @@ td, th {
 
 .order-button{
   text-align: center;
+  margin: auto;
 }
 
 video {
